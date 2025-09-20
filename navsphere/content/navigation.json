@@ -4,7 +4,16 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "1758372035156",
+          "title": "BT之家1LOU站",
+          "href": "https://www.1lou.info/",
+          "description": " BT电影天堂-影视资源交流社区 , 分享快乐,如此简单 ! ",
+          "icon": "/assets/favicon_1758372042666.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
