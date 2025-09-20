@@ -131,7 +131,16 @@
           "icon": "Network",
           "description": "工具下载",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1758374077642",
+              "title": "Clash Verge",
+              "href": "https://www.clashverge.dev/",
+              "description": "系统代理，基于 tauri 的 Clash GUI。支持 Windows、macOS 和 Linux。",
+              "icon": "/assets/favicon_1758374080305.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "3381eb5c-70f1-45a4-bce0-146fd884b25e",
