@@ -172,7 +172,16 @@
           "icon": "Link",
           "description": "飞机场节点分享",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1758375097663",
+              "title": "代理机场",
+              "href": "https://mitce.net/aff.php?aff=21224",
+              "description": "提供安全的加密網路代理，接入不同國家，繞開您的ISP限制或保護您的隱私，並持續以卓越品質獲得認可",
+              "icon": "/assets/favicon_1758375101479.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
