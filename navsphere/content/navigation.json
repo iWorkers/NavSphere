@@ -559,6 +559,15 @@
       ]
     },
     {
+      "id": "1758352997153",
+      "title": "娱乐休闲",
+      "icon": "LayoutGrid",
+      "description": "娱乐休闲",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -737,15 +746,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1758352997153",
-      "title": "娱乐休闲",
-      "icon": "LayoutGrid",
-      "description": "娱乐休闲",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "8",
