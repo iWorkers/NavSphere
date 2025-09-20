@@ -685,6 +685,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1758353731227",
+              "title": "在线转换文档，图像，视频，音频文件",
+              "href": "https://www.aconvert.com/cn/",
+              "description": "在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。",
+              "icon": "/assets/favicon_1758353734316.png",
+              "enabled": true
             }
           ],
           "enabled": true
