@@ -36,14 +36,6 @@
           "description": "Google AdSense广告服务。",
           "icon": "/assets/images/logos/gads.ico",
           "enabled": true
-        },
-        {
-          "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
