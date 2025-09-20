@@ -128,6 +128,14 @@
               "description": "美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！",
               "icon": "/assets/favicon_1758353093797.ico",
               "enabled": true
+            },
+            {
+              "id": "1758353145216",
+              "title": "电影天堂",
+              "href": "https://www.dytt8899.com/",
+              "description": "电影下载_高清首发",
+              "icon": "/assets/favicon_1758353147296.png",
+              "enabled": true
             }
           ]
         }
