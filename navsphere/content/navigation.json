@@ -478,6 +478,14 @@
               "description": "Dub 是用于短链接、转化跟踪和联属计划的现代链接归因平台。",
               "icon": "/assets/favicon_1758373392945.png",
               "enabled": true
+            },
+            {
+              "id": "1758373528476",
+              "title": "Larksuite",
+              "href": "https://www.larksuite.com/",
+              "description": "Lark邮箱与其他功能无缝整合，给你提供智能安全的免费电子企业邮件体验。立刻使用！",
+              "icon": "/assets/favicon_1758373531923.png",
+              "enabled": true
             }
           ]
         }
