@@ -455,6 +455,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "1366f298-43c2-468c-b484-38c2543ad590",
+          "title": "API工具",
+          "icon": "BookOpen",
+          "description": "API工具",
+          "enabled": true,
+          "items": []
         }
       ]
     },
