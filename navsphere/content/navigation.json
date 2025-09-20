@@ -462,7 +462,16 @@
           "icon": "BookOpen",
           "description": "API工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1758373276940",
+              "title": "Resend · Email for developers",
+              "href": "https://resend.com/",
+              "description": "Resend 是面向开发人员的电子邮件 API。",
+              "icon": "/assets/favicon_1758373290602.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
