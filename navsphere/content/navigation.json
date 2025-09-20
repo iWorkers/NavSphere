@@ -739,6 +739,15 @@
       "enabled": true
     },
     {
+      "id": "1758352997153",
+      "title": "娱乐休闲",
+      "icon": "LayoutGrid",
+      "description": "娱乐休闲",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -916,15 +925,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1758352997153",
-      "title": "娱乐休闲",
-      "icon": "LayoutGrid",
-      "description": "娱乐休闲",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
