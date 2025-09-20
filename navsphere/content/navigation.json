@@ -20,6 +20,14 @@
           "description": "最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！",
           "icon": "/assets/favicon_1758372073167.png",
           "enabled": true
+        },
+        {
+          "id": "1758372113058",
+          "title": "美剧天堂",
+          "href": "https://www.imeijutt.tv/",
+          "description": "海量好看的美剧在线观看、最新美剧下载！",
+          "icon": "/assets/favicon_1758372119905.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
