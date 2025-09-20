@@ -129,6 +129,14 @@
               "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
               "icon": "/assets/favicon_1758377955037.png",
               "enabled": true
+            },
+            {
+              "id": "1758377976894",
+              "title": " NodeSeek",
+              "href": "https://www.nodeseek.com/",
+              "description": "Nodeseek is a place for people who love web development, hosting, vps / server and other geek things",
+              "icon": "/assets/favicon_1758377978918.png",
+              "enabled": true
             }
           ]
         }
