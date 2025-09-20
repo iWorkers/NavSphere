@@ -338,6 +338,14 @@
               "description": "部署在任何设施之上\n以外部的简洁和高效提供一站式项目、数据的管理以及系统监控",
               "icon": "/assets/favicon_1758372924722.svg",
               "enabled": true
+            },
+            {
+              "id": "1758373023919",
+              "title": "Supabase ",
+              "href": "https://supabase.com/",
+              "description": "Supabase 是 Postgres 开发平台。您可以使用 Postgres 数据库、身份验证、即时 API、边缘函数、实时订阅、存储和向量嵌入来启动您的项目。",
+              "icon": "/assets/favicon_1758373033194.png",
+              "enabled": true
             }
           ]
         },
