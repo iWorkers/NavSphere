@@ -121,7 +121,16 @@
           "icon": "Code",
           "description": "论坛社区",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1758377953380",
+              "title": "V2EX",
+              "href": "https://www.v2ex.com/",
+              "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+              "icon": "/assets/favicon_1758377955037.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
