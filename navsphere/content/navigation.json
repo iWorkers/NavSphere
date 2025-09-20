@@ -137,6 +137,14 @@
               "description": "Nodeseek is a place for people who love web development, hosting, vps / server and other geek things",
               "icon": "/assets/favicon_1758377978918.png",
               "enabled": true
+            },
+            {
+              "id": "1758378034746",
+              "title": "LINUX DO",
+              "href": "https://linux.do/",
+              "description": "新的理想型社区",
+              "icon": "/assets/favicon_1758378036400.png",
+              "enabled": true
             }
           ]
         }
