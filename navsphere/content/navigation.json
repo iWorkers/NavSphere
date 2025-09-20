@@ -12,6 +12,14 @@
           "description": " BT电影天堂-影视资源交流社区 , 分享快乐,如此简单 ! ",
           "icon": "/assets/favicon_1758372042666.ico",
           "enabled": true
+        },
+        {
+          "id": "1758372067252",
+          "title": "电影天堂",
+          "href": "https://www.dytt8899.com/",
+          "description": "最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！",
+          "icon": "/assets/favicon_1758372073167.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
