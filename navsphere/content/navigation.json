@@ -132,6 +132,14 @@
           "description": "工具下载",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "3381eb5c-70f1-45a4-bce0-146fd884b25e",
+          "title": "节点分享",
+          "icon": "Link",
+          "description": "飞机场节点分享",
+          "enabled": true,
+          "items": []
         }
       ]
     },
