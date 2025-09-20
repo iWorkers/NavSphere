@@ -486,6 +486,14 @@
               "description": "Lark邮箱与其他功能无缝整合，给你提供智能安全的免费电子企业邮件体验。立刻使用！",
               "icon": "/assets/favicon_1758373531923.png",
               "enabled": true
+            },
+            {
+              "id": "1758373660974",
+              "title": "Mixpanel ",
+              "href": "https://mixpanel.com/",
+              "description": "Mixpanel 帮助团队将用户行为洞察转化为明确的后续步骤，而不会出现延迟或 SQL 瓶颈。",
+              "icon": "/assets/favicon_1758373663575.png",
+              "enabled": true
             }
           ]
         }
