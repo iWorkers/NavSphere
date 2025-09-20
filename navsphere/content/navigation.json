@@ -120,6 +120,14 @@
               "description": "分享快乐,如此简单 !  BT电影天堂-影视资源交流社区 , BT之家官网：1lOU.ME ，BT之家BTBTT，BT之家BTBBT，BTHome，BTHouse",
               "icon": "/assets/favicon_1758353064138.ico",
               "enabled": true
+            },
+            {
+              "id": "1758353073369",
+              "title": "美剧天堂 ",
+              "href": "https://www.imeijutt.tv/",
+              "description": "美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！",
+              "icon": "/assets/favicon_1758353093797.ico",
+              "enabled": true
             }
           ]
         }
