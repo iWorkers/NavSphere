@@ -470,6 +470,14 @@
               "description": "Resend 是面向开发人员的电子邮件 API。",
               "icon": "/assets/favicon_1758373290602.ico",
               "enabled": true
+            },
+            {
+              "id": "1758373389860",
+              "title": "Dub",
+              "href": "https://dub.co/",
+              "description": "Dub 是用于短链接、转化跟踪和联属计划的现代链接归因平台。",
+              "icon": "/assets/favicon_1758373392945.png",
+              "enabled": true
             }
           ]
         }
