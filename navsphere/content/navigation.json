@@ -28,6 +28,14 @@
           "description": "海量好看的美剧在线观看、最新美剧下载！",
           "icon": "/assets/favicon_1758372119905.ico",
           "enabled": true
+        },
+        {
+          "id": "1758372231104",
+          "title": "运动步数修改小程序",
+          "href": "https://wvuvw.top/",
+          "description": "这是一个运动步数修改小程序的网站，提供详细的使用指南和常见问题解答。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wvuvw.top",
+          "enabled": true
         }
       ],
       "subCategories": [],
