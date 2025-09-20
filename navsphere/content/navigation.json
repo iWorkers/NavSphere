@@ -147,6 +147,14 @@
               "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others - 2dust/v2rayN",
               "icon": "/assets/favicon_1758374399962.png",
               "enabled": true
+            },
+            {
+              "id": "1758374489942",
+              "title": " XTLS/Xray-core",
+              "href": "https://github.com/XTLS/Xray-core",
+              "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. - XTLS/Xray-core",
+              "icon": "/assets/favicon_1758374493337.png",
+              "enabled": true
             }
           ]
         },
