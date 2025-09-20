@@ -322,6 +322,14 @@
               "description": "几分钟内即可部署应用程序、API 和 AI 工作负载",
               "icon": "/assets/favicon_1758372746070.svg",
               "enabled": true
+            },
+            {
+              "id": "1758372791835",
+              "title": "Deploy app servers close to your users\n     · Fly",
+              "href": "https://fly.io/",
+              "description": "Fly.io 上已推出超过 300 万个应用程序 ，利用全球 Anycast 负载平衡、零配置专用网络、硬件隔离、即时 WireGuard VPN 连接以及可扩展到数千个实例的按钮部署",
+              "icon": "/assets/favicon_1758372844517.png",
+              "enabled": true
             }
           ]
         },
