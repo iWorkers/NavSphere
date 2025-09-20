@@ -161,6 +161,14 @@
               "description": "具有8年历史的远程工作招聘社区，也是远程办公互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会。「只工作，不上班」是我们倡导的工作态度。",
               "icon": "/assets/favicon_1758378226170.png",
               "enabled": true
+            },
+            {
+              "id": "1758378362750",
+              "title": "奶昔论坛",
+              "href": "https://forum.naixi.net/",
+              "description": "",
+              "icon": "/assets/favicon_1758378366203.png",
+              "enabled": true
             }
           ]
         }
