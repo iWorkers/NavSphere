@@ -494,6 +494,14 @@
               "description": "Mixpanel 帮助团队将用户行为洞察转化为明确的后续步骤，而不会出现延迟或 SQL 瓶颈。",
               "icon": "/assets/favicon_1758373663575.png",
               "enabled": true
+            },
+            {
+              "id": "1758373736646",
+              "title": "Auth0",
+              "href": "https://auth0.com/",
+              "description": "Auth0 是一个易于实现、适应性强的身份验证和授权平台",
+              "icon": "/assets/favicon_1758373738857.png",
+              "enabled": true
             }
           ]
         }
