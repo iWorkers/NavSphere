@@ -136,6 +136,14 @@
               "description": "电影下载_高清首发",
               "icon": "/assets/favicon_1758353147296.png",
               "enabled": true
+            },
+            {
+              "id": "1758353235912",
+              "title": "LOL电影天堂",
+              "href": "http://www.loldytt666.com/",
+              "description": "为广大网友提供迅雷电影下载、电影BT种子下载、高清电影，下载最新好看的电影首选LOL电影天堂!",
+              "icon": "/assets/favicon_1758353238503.ico",
+              "enabled": true
             }
           ]
         }
