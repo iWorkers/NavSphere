@@ -114,6 +114,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8320b069-6d5d-4dc1-a5c0-1e421e46cb86",
+          "title": "论坛社区",
+          "icon": "Code",
+          "description": "论坛社区",
+          "enabled": true,
+          "items": []
         }
       ]
     },
