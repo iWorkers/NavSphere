@@ -105,7 +105,16 @@
       "description": "娱乐休闲",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "30991b75-5e77-4446-95f7-da8e8a6a2467",
+          "title": "电影资源",
+          "icon": "Video",
+          "description": "电影资源站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
