@@ -118,6 +118,15 @@
       ]
     },
     {
+      "id": "1758373910397",
+      "title": "上网工具",
+      "icon": "LayoutList",
+      "description": "上网工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -1024,15 +1033,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1758373910397",
-      "title": "上网工具",
-      "icon": "LayoutList",
-      "description": "上网工具",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
