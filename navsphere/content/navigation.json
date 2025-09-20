@@ -144,6 +144,14 @@
               "description": "为广大网友提供迅雷电影下载、电影BT种子下载、高清电影，下载最新好看的电影首选LOL电影天堂!",
               "icon": "/assets/favicon_1758353238503.ico",
               "enabled": true
+            },
+            {
+              "id": "1758353321060",
+              "title": "高清影视下载社区 - 高清族",
+              "href": "https://www.hdzu.cc/",
+              "description": "高清族（hdzu.cc）的是一个影视资源全面且质量高的影视资源交流社区。",
+              "icon": "/assets/favicon_1758353323516.png",
+              "enabled": true
             }
           ]
         }
