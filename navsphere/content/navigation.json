@@ -330,6 +330,14 @@
               "description": "Fly.io 上已推出超过 300 万个应用程序 ，利用全球 Anycast 负载平衡、零配置专用网络、硬件隔离、即时 WireGuard VPN 连接以及可扩展到数千个实例的按钮部署",
               "icon": "/assets/favicon_1758372844517.png",
               "enabled": true
+            },
+            {
+              "id": "1758372881174",
+              "title": "Dokploy - Effortless Deployment Solutions",
+              "href": "https://dokploy.com/zh-Hans",
+              "description": "部署在任何设施之上\n以外部的简洁和高效提供一站式项目、数据的管理以及系统监控",
+              "icon": "/assets/favicon_1758372924722.svg",
+              "enabled": true
             }
           ]
         },
