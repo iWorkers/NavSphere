@@ -124,7 +124,16 @@
       "description": "上网工具，飞机场",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5b6a2d07-df1d-4956-8ca4-b2c68c2aabe3",
+          "title": "上网工具",
+          "icon": "Network",
+          "description": "工具下载",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
