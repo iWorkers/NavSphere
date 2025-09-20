@@ -139,6 +139,14 @@
               "description": "系统代理，基于 tauri 的 Clash GUI。支持 Windows、macOS 和 Linux。",
               "icon": "/assets/favicon_1758374080305.ico",
               "enabled": true
+            },
+            {
+              "id": "1758374395443",
+              "title": "v2rayN",
+              "href": "https://github.com/2dust/v2rayN",
+              "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others - 2dust/v2rayN",
+              "icon": "/assets/favicon_1758374399962.png",
+              "enabled": true
             }
           ]
         },
