@@ -36,6 +36,14 @@
           "description": "这是一个运动步数修改小程序的网站，提供详细的使用指南和常见问题解答。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wvuvw.top",
           "enabled": true
+        },
+        {
+          "id": "1758372331598",
+          "title": "网络代理",
+          "href": "https://mitce.net/aff.php?aff=21224",
+          "description": "便宜好用的梯子",
+          "icon": "/assets/favicon_1758372335578.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
