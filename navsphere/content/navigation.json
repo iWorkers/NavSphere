@@ -236,6 +236,14 @@
               "description": "Connect to thousands of active VPN servers with L2TP/IPsec, OpenVPN, MS-SSTP or SSL-VPN protocol, and change your IP address. No user registration.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.vpngate.net",
               "enabled": true
+            },
+            {
+              "id": "1758448753251",
+              "title": " V2Ray Client App",
+              "href": "https://www.v2nodes.com/pages/download-v2ray-client.html",
+              "description": "Client App大全",
+              "icon": "/assets/favicon_1758448756804.png",
+              "enabled": true
             }
           ]
         },
