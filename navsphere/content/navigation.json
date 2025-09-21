@@ -261,6 +261,14 @@
               "description": "每月2元 大碗高速 全国可用",
               "icon": "/assets/favicon_1758376100754.png",
               "enabled": true
+            },
+            {
+              "id": "1758448233798",
+              "title": "Open Proxy List - Free VPN & Proxy",
+              "href": "https://openproxylist.com/",
+              "description": "Access a world of free OpenVPN, HTTP, SOCKS proxy, and V2Ray servers. Enjoy fast, secure, and unrestricted internet with no hidden fees or sign-up requirements. Connect easily and browse freely from anywhere in the world.",
+              "icon": "/assets/favicon_1758448236790.png",
+              "enabled": true
             }
           ]
         }
