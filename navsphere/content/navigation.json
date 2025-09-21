@@ -220,6 +220,14 @@
               "description": "Clash订阅节点分享",
               "icon": "/assets/favicon_1758375063615.png",
               "enabled": true
+            },
+            {
+              "id": "1758448141526",
+              "title": "KaringX | Karing ",
+              "href": "https://karing.app/",
+              "description": "兼容Clash的通用网络代理工具, 支持clash/v2ray/ss订阅",
+              "icon": "/assets/favicon_1758448143615.ico",
+              "enabled": true
             }
           ]
         },
